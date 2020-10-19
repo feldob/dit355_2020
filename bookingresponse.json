@@ -1,0 +1,5 @@
+{
+  "userid": 12345,
+  "requestid": 13,
+  "time": "9:30" # alt "none" if failed
+}
