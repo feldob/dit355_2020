@@ -8,8 +8,8 @@
       "address": "Spannmålsgatan 20",
       "city": "Gothenburg",
       "coordinate": {
-        "latitude": 11.969388,
-        "longitude": 57.707619
+        "longitude": 11.969388,
+        "latitude": 57.707619
       },
       "openinghours": {
         "monday": "9:00-17:00",
@@ -27,8 +27,8 @@
       "address": "Slottskogen",
       "city": "Gothenburg",
       "coordinate": {
-        "latitude": 11.942625,
-        "longitude": 57.685255
+        "longitude": 11.942625,
+        "latitude": 57.685255
       },
       "openinghours": {
         "monday": "7:00-19:00",
@@ -46,8 +46,8 @@
       "address": "Lindholmsallén 19",
       "city": "Gothenburg",
       "coordinate": {
-        "latitude": 11.940386,
-        "longitude": 57.709872
+        "longitude": 11.940386,
+        "latitude": 57.709872
       },
       "openinghours": {
         "monday": "6:00-15:00",
