@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Your Dentist",
       "owner": "Dan Tist",
-      "dentists": 1,
+      "dentists": 3,
       "address": "Spannmålsgatan 20",
       "city": "Gothenburg",
       "coordinate": {
@@ -42,7 +42,7 @@
       "id": 3,
       "name": "The Crown",
       "owner": "Carmen Corona",
-      "dentists": 1,
+      "dentists": 2,
       "address": "Lindholmsallén 19",
       "city": "Gothenburg",
       "coordinate": {
