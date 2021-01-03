@@ -56,6 +56,25 @@
         "thursday": "7:00-17:00",
         "friday": "8:00-16:00"
       }
+    },
+    {
+      "id": 4,
+      "name": "Lisebergs Dentists",
+      "owner": "Glen Hysén",
+      "dentists": 3,
+      "address": "Liseberg",
+      "city": "Gothenburg",
+      "coordinate": {
+        "longitude": 11.991153,
+        "latitude": 57.694723
+      },
+      "openinghours": {
+        "monday": "10:00-18:00",
+        "tuesday": "10:00-18:00",
+        "wednesday": "10:00-18:00",
+        "thursday": "10:00-18:00",
+        "friday": "10:00-18:00"
+      }
     }
   ]
 }
